@@ -1,4 +1,4 @@
-import ExpenseItem from "./components/ExpensesItem";
+import ExpenseItem from "./components/ExpenseItem";
 
 function App(){
     let expenses = [
